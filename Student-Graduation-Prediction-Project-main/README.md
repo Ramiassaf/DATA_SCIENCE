@@ -1,0 +1,3 @@
+# Student-Graduation-Prediction-Project
+## Project Description
+Problem Statement :You are Given the limited student data from a reputed university that include relevant information of the students currently enrolled in  the university for a specific program like personal information and curriculum data.  As a Data Scientist  perform detail EDA on the data and prepare a prediction model which predicts whether a college student will graduate or not using at least five machine learning algorithms.  Try to bring relevant inference from the model by visualizing the performance through confusion metrics  and AUC-ROC curve.
